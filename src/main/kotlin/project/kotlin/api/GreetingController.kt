@@ -1,4 +1,4 @@
-package org.jetbrains.kotlin.demo
+package project.kotlin.api
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RequestParam
